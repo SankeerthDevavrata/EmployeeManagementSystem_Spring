@@ -1,10 +1,16 @@
 # EmployeeManagementSystem_Spring
 8080 port initialised with MySql DB
+
 8081 port initialised with h2 DB
 
 User and Admin access API : "/","/employees","/employees/sortedAsc","/employee/search" ie view employees , sort employees by FistName , Search Employee by id or First Name
 
 Admin Only Access API : "/employees/new","/employees/edit/{id}","/employees/{id}" ie add new employee , edit employee , delete employee
+
+Video Reference :
+
+https://photos.app.goo.gl/qrvH6crGidCqmUG57
+
 
 ScreenShots :
 
@@ -24,8 +30,3 @@ ScreenShots :
 
 
 <img width="1440" alt="Screenshot 2023-10-29 at 5 06 15 PM" src="https://github.com/SankeerthDevavrata/EmployeeManagementSystem_Spring/assets/135628393/e67a0340-0c33-429c-859f-03058173fb64">
-
-Video Reference :
-
-https://photos.app.goo.gl/qrvH6crGidCqmUG57
-
