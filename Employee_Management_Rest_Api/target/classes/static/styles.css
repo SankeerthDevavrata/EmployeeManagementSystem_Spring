@@ -1,0 +1,25 @@
+.navbar {
+	background-color: #343a40; /* Dark background color */
+}
+
+.navbar-dark .navbar-brand {
+	color: #fff !important; /* White text color */
+	font-weight: bold; /* Bold text */
+}
+
+.navbar-dark .navbar-toggler-icon {
+	background-color: #fff; /* White icon color */
+}
+
+.formInputBox{
+	width:376px;
+}
+
+.btn-custom{
+	width: 76px;
+	margin-top: 13px;
+}
+
+.custom-addEmployeeBtn{
+	width:170px;
+}
